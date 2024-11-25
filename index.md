@@ -1,5 +1,5 @@
 👋 Hi, I'm Dhananjay Hawal!
-I’m a Senior Data Analyst and Engineer with over 9 years of experience in Data Analytics, Engineering, and Problem-Solving. My expertise spans Python, SQL, and creating robust data models and pipelines.
+I’m a Senior Data Analyst and Analytics Engineer with over 9 years of experience in Data Analytics, Engineering, and Problem-Solving. My expertise spans Python, SQL, and creating robust data models and pipelines.
 
 🚀 What I do:
 
