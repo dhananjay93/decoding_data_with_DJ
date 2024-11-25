@@ -50,10 +50,11 @@ Suppose 1,000 users opened the app, and the following occurred:
 - 110 had their KYC approved.
 
 You can calculate the **drop-off rate** for each step:
-\[ \text{Drop-off Rate} = \frac{\text{Users at Step A} - \text{Users at Step B}}{\text{Users at Step A}} \times 100 \]
 
-For instance, from Step 1 to Step 2:
-\[ \frac{1,000 - 800}{1,000} \times 100 = 20\% \]
+Drop-off Rate = (Users at Step A - Users at Step B) / Users at Step A × 100
+
+For instance, from Step 1 to Step 2: (1,000 - 800) / 1,000 × 100 = 20%
+
 
 **Insights:**
 - A 20% drop-off at the sign-up stage may indicate the need for improved engagement, such as offering incentives like **“Sign up today and get ₹10 off your registration fee.”**
