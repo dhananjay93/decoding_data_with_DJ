@@ -55,10 +55,13 @@ Drop-off Rate = (Users at Step A - Users at Step B) / Users at Step A × 100
 
 For instance, from Step 1 to Step 2: (1,000 - 800) / 1,000 × 100 = 20%
 
+Example 
 
 **Insights:**
 - A 20% drop-off at the sign-up stage may indicate the need for improved engagement, such as offering incentives like **“Sign up today and get ₹10 off your registration fee.”**
 - A significant drop-off between Steps 4 and 5 (80% abandon rate) may suggest simplifying the selfie video requirement, potentially replacing it with a video call.
+
+![Funnel Diagram](https://github.com/dhananjay93/decoding_data_with_DJ/raw/main/images/funnels.png)
 
 ---
 
@@ -74,6 +77,8 @@ In the mutual fund example:
 
 **Example:**
 After providing personal information, users should ideally move to accept the terms and conditions. If many users return to the previous screen, the Flow chart highlights this behavior, enabling businesses to identify and address pain points to reduce friction.
+
+![Flow Diagram](https://github.com/dhananjay93/decoding_data_with_DJ/raw/main/images/flows.png)
 
 ---
 
